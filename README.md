@@ -1,4 +1,4 @@
-## utility or skill list: ##
+## list: ##
 
 1. class weight
 2. data loader
